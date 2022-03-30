@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+
+.display{
+    display: flex;
+    flex-direction: column;
+}
+
+.display1{
+    display: flex;
+}
+
+.desactiver{
+    display: none;
+}
+
+.bordure{
+    
+    border: 1px black solid ;
+}
+
+.fond1{
+    background:cadetblue;
+    width: 100px;
+    height: 100px;
+}
+
+.fond2{
+    background: burlywood;
+    width: 200px;
+    height: 200px;
+}
